@@ -1,8 +1,8 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add enzyme-adapter-react
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add firebase
 
 PATH: 
-  C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\Users\nkorojoseph\Anaconda3\Lib\site-packages\PyQt5;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\MinGW\bin;C:\Program Files (x86)\mingw-w64\i686-6.2.0-posix-dwarf-rt_v5-rev1\mingw32;C:\Program Files (x86)\Mitov\Visuino;C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe;C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\nkorojoseph\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\heroku\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Anaconda3;C:\Anaconda3\Scripts;C:\Anaconda3\Library\bin;"C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe;"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe;C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\ucrt;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\bin\Qt;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\bin\Ssl;C:\Users\nkorojoseph\AppData\Local\atom\bin;C:\Program Files\Genymobile\Genymotion\tools;C:\Users\nkorojoseph\AppData\Local\Yarn\bin;C:\Users\nkorojoseph\AppData\Roaming\npm;C:\Users\nkorojoseph\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\heroku\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
+  C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python27\;C:\Python27\Scripts;C:\Users\nkorojoseph\Anaconda3\Lib\site-packages\PyQt5;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\MinGW\bin;C:\Program Files (x86)\mingw-w64\i686-6.2.0-posix-dwarf-rt_v5-rev1\mingw32;C:\Program Files (x86)\Mitov\Visuino;C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe;C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Users\nkorojoseph\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\heroku\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Anaconda3;C:\Anaconda3\Scripts;C:\Anaconda3\Library\bin;"C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe;"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe;C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}\components;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\ucrt;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\bin\Qt;C:\Users\nkorojoseph\AppData\Roaming\Dashlane\6.1905.1.17471\bin\Ssl;C:\Users\nkorojoseph\AppData\Local\atom\bin;C:\Program Files\Genymobile\Genymotion\tools;C:\Users\nkorojoseph\AppData\Local\Yarn\bin;C:\Users\nkorojoseph\AppData\Roaming\npm;C:\Users\nkorojoseph\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\heroku\bin;C:\Users\nkorojoseph\AppData\Local\Microsoft\WindowsApps;C:\Users\nkorojoseph\.dotnet\tools;C:\Program Files\Azure Data Studio\bin
 
 Yarn version: 
   1.13.0
@@ -14,17 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/enzyme-adapter-react: Not found
-      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:65364:18)
-      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:129397:22)
-      at Request.emit (events.js:197:13)
-      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:130369:10)
-      at Request.emit (events.js:197:13)
-      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:130291:12)
-      at Object.onceWrapper (events.js:285:13)
-      at IncomingMessage.emit (events.js:202:15)
-      at endReadableNT (_stream_readable.js:1129:12)
-      at processTicksAndRejections (internal/process/next_tick.js:76:17)
+  Error: EPERM: operation not permitted, lstat 'C:\Users\nkorojoseph\React App\BUGIT\node_modules\.bin'
 
 npm manifest: 
   {
@@ -37,7 +27,7 @@ npm manifest:
       "build:dev": "webpack",
       "build:prod": "webpack -p --env production",
       "dev-server": "webpack-dev-server",
-      "test": "jest",
+      "test": "jest --config=jest.config.json",
       "start": "node server/server.js",
       "heroku-postbuild": "yarn run build:prod"
     },
@@ -56,6 +46,7 @@ npm manifest:
       "config": "^3.2.3",
       "css-loader": "0.28.4",
       "enzyme": "^3.10.0",
+      "enzyme-adapter-react-16": "^1.15.1",
       "express": "^4.17.1",
       "express-validator": "^6.2.0",
       "extract-text-webpack-plugin": "4.0.0-beta.0",
@@ -80,7 +71,6 @@ npm manifest:
       "sass-loader": "^8.0.0",
       "style-loader": "0.18.2",
       "uuid": "^3.3.3",
-      "validator": "^11.1.0",
       "webpack": "^4.41.1",
       "webpack-cli": "^3.3.9"
     },
@@ -3311,6 +3301,33 @@ Lockfile:
     version "2.0.0"
     resolved "https://registry.yarnpkg.com/entities/-/entities-2.0.0.tgz#68d6084cab1b079767540d80e56a39b423e4abf4"
     integrity sha512-D9f7V0JSRwIxlRI2mjMqufDrRDnx8p+eEOz7aUM9SuvF8gsBzra0/6tbjl1m8eQHrZlYj6PxqE00hZ1SAIKPLw==
+  
+  enzyme-adapter-react-16@^1.15.1:
+    version "1.15.1"
+    resolved "https://registry.yarnpkg.com/enzyme-adapter-react-16/-/enzyme-adapter-react-16-1.15.1.tgz#8ad55332be7091dc53a25d7d38b3485fc2ba50d5"
+    integrity sha512-yMPxrP3vjJP+4wL/qqfkT6JAIctcwKF+zXO6utlGPgUJT2l4tzrdjMDWGd/Pp1BjHBcljhN24OzNEGRteibJhA==
+    dependencies:
+      enzyme-adapter-utils "^1.12.1"
+      enzyme-shallow-equal "^1.0.0"
+      has "^1.0.3"
+      object.assign "^4.1.0"
+      object.values "^1.1.0"
+      prop-types "^15.7.2"
+      react-is "^16.10.2"
+      react-test-renderer "^16.0.0-0"
+      semver "^5.7.0"
+  
+  enzyme-adapter-utils@^1.12.1:
+    version "1.12.1"
+    resolved "https://registry.yarnpkg.com/enzyme-adapter-utils/-/enzyme-adapter-utils-1.12.1.tgz#e828e0d038e2b1efa4b9619ce896226f85c9dd88"
+    integrity sha512-KWiHzSjZaLEoDCOxY8Z1RAbUResbqKN5bZvenPbfKtWorJFVETUw754ebkuCQ3JKm0adx1kF8JaiR+PHPiP47g==
+    dependencies:
+      airbnb-prop-types "^2.15.0"
+      function.prototype.name "^1.1.1"
+      object.assign "^4.1.0"
+      object.fromentries "^2.0.1"
+      prop-types "^15.7.2"
+      semver "^5.7.0"
   
   enzyme-shallow-equal@^1.0.0:
     version "1.0.0"
@@ -6616,6 +6633,16 @@ Lockfile:
       function-bind "^1.1.1"
       has "^1.0.3"
   
+  object.fromentries@^2.0.1:
+    version "2.0.1"
+    resolved "https://registry.yarnpkg.com/object.fromentries/-/object.fromentries-2.0.1.tgz#050f077855c7af8ae6649f45c80b16ee2d31e704"
+    integrity sha512-PUQv8Hbg3j2QX0IQYv3iAGCbGcu4yY4KQ92/dhA4sFSixBmSmp13UpDLs6jGK8rBtbmhNNIK99LD2k293jpiGA==
+    dependencies:
+      define-properties "^1.1.3"
+      es-abstract "^1.15.0"
+      function-bind "^1.1.1"
+      has "^1.0.3"
+  
   object.getownpropertydescriptors@^2.0.3:
     version "2.0.3"
     resolved "https://registry.yarnpkg.com/object.getownpropertydescriptors/-/object.getownpropertydescriptors-2.0.3.tgz#8758c846f5b407adab0f236e0986f14b051caa16"
@@ -7654,15 +7681,15 @@ Lockfile:
       prop-types "^15.6.2"
       scheduler "^0.16.2"
   
+  react-is@^16.10.2, react-is@^16.8.4, react-is@^16.8.6:
+    version "16.12.0"
+    resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
+    integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
+  
   react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1:
     version "16.10.2"
     resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.10.2.tgz#984120fd4d16800e9a738208ab1fba422d23b5ab"
     integrity sha512-INBT1QEgtcCCgvccr5/86CfD71fw9EPmDxgiJX4I2Ddr6ZsV6iFXsuby+qWJPtmNuMY0zByTsG4468P7nHuNWA==
-  
-  react-is@^16.8.4:
-    version "16.12.0"
-    resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
-    integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
   
   react-is@^16.9.0:
     version "16.11.0"
@@ -7749,6 +7776,16 @@ Lockfile:
       react-is "^16.6.0"
       tiny-invariant "^1.0.2"
       tiny-warning "^1.0.0"
+  
+  react-test-renderer@^16.0.0-0:
+    version "16.12.0"
+    resolved "https://registry.yarnpkg.com/react-test-renderer/-/react-test-renderer-16.12.0.tgz#11417ffda579306d4e841a794d32140f3da1b43f"
+    integrity sha512-Vj/teSqt2oayaWxkbhQ6gKis+t5JrknXfPVo+aIJ8QwYAqMPH77uptOdrlphyxl8eQI/rtkOYg86i/UWkpFu0w==
+    dependencies:
+      object-assign "^4.1.1"
+      prop-types "^15.6.2"
+      react-is "^16.8.6"
+      scheduler "^0.18.0"
   
   react-with-direction@^1.3.1:
     version "1.3.1"
@@ -8282,6 +8319,14 @@ Lockfile:
       loose-envify "^1.1.0"
       object-assign "^4.1.1"
   
+  scheduler@^0.18.0:
+    version "0.18.0"
+    resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.18.0.tgz#5901ad6659bc1d8f3fdaf36eb7a67b0d6746b1c4"
+    integrity sha512-agTSHR1Nbfi6ulI0kYNK0203joW2Y5W4po4l+v03tOoiJKpTBbxpNhWDvqc/4IcOw+KLmSiQLTasZ4cab2/UWQ==
+    dependencies:
+      loose-envify "^1.1.0"
+      object-assign "^4.1.1"
+  
   schema-utils@^0.3.0:
     version "0.3.0"
     resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-0.3.0.tgz#f5877222ce3e931edae039f17eb3716e7137f8cf"
@@ -8334,7 +8379,7 @@ Lockfile:
     dependencies:
       node-forge "0.9.0"
   
-  "semver@2 || 3 || 4 || 5", semver@^5.1.0, semver@^5.3.0, semver@^5.4.1, semver@^5.5.0, semver@^5.6.0:
+  "semver@2 || 3 || 4 || 5", semver@^5.1.0, semver@^5.3.0, semver@^5.4.1, semver@^5.5.0, semver@^5.6.0, semver@^5.7.0:
     version "5.7.1"
     resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
     integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
