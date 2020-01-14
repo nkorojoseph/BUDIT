@@ -5,7 +5,7 @@ import thunk from 'redux-thunk';
 
 //create a const value from redux dev tools property else use compose.
 //if no dev tool, apply thunk directly without much config
-const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION__ || compose;
+const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 export default () => {
   const store = createStore(
     combineReducers({

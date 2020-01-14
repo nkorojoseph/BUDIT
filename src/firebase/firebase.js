@@ -12,9 +12,6 @@ const config = {
 
 firebase.initializeApp(config);
 
-firebase
-  .database()
-  .ref()
-  .set({
-    name: 'Joseph Nkoro'
-  });
+const database = firebase.database();
+
+export {firebase,database as default}
