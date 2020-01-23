@@ -1,12 +1,12 @@
 import * as firebase from 'firebase';
 
 const config = {
-  apiKey: 'AIzaSyDPB8ooVWV-7SZNYruZmjGBJePQcIs_zSo',
-  authDomain: 'bugit-b20cd.firebaseapp.com',
-  databaseURL: 'https://bugit-b20cd.firebaseio.com',
-  projectId: 'bugit-b20cd',
-  storageBucket: 'bugit-b20cd.appspot.com',
-  messagingSenderId: '155687669736',
+  apiKey: process.env.FIREBASE_API_KEY,
+  authDomain: process.env.FIREBASE_AUTH_DOMAIN,
+  databaseURL: process.env.FIREBASE_DATABASE_URL,
+  projectId: process.env.FIREBASE_PROJECT_ID,
+  storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
   appId: '1:155687669736:web:41d2ac427b5a491fc31e5d'
 };
 
