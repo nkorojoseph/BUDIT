@@ -1,0 +1,16 @@
+.button-layout{
+    color:white;
+    border-radius: 3px;
+    display: inline-block;
+    background-color:$blue;
+    font-size: 1.8rem;
+    font-weight: $fw-large;
+    padding: $s-size;
+    border:none;
+    text-decoration: none;
+    height: 1;
+}
+
+.button-layout--link{
+    background: none; 
+}
